@@ -1,2 +1,0 @@
-echo
-del windows
