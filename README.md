@@ -1,2 +1,2 @@
-# do-not-open-to-kill-your-computer
+# do-not-open-this-did-your-computer
 this is dangerous i warned you
